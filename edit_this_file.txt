@@ -1,10 +1,10 @@
 class HelloWorld
-  def initialize(name)
+  d initialize(name)
     @name = name.capitalize
   end
   # working here
   def say_hi
-    puts "Hello #{@name}!"
+    put "Hello #{@name}!"
   end
 
   # TODO: Remove this comment and the method below.
