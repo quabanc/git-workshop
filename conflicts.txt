@@ -6,6 +6,6 @@ class HelloWorld
   def output_lines
     puts 'Line1'
     puts 'Line2'
-    puts 'Line3'
+    puts 'Line5'
   end
 end
